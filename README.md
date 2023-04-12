@@ -7,3 +7,5 @@ Release contains:
 * Detailed installation guide
 
 Install according to the instructions in the manual
+
+test
